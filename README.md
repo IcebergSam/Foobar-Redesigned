@@ -1,7 +1,7 @@
 # Foobar-Redesigned
 Functional aesthetic redesign of a web/desktop audio player
-
 Created 10/2020
+
 =======
 
 # CS4474 Assignment Prototype
