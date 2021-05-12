@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # CS4474 Assignment Prototype
 
@@ -26,3 +27,9 @@ Cleans the app's distribution folder.
 Builds the app for production to the `dist` folder.\
 Installers for the distributable version of the app are available in the `dist` folder once building is complete.
 Building should make the appropriate installer based on your current OS.
+=======
+# Foobar-Redesigned
+Functional aesthetic redesign of a web/desktop audio player
+
+Created 10/2020
+>>>>>>> 268467925c0a3e2d091d58cfc634892d08a00715
